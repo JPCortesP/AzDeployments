@@ -15,13 +15,14 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "O365VM",
+      "defaultValue": "M365ClientVM",
       "metadata": {
         "description": "Local name for the VM can be whatever you want"
       }
     },
     "vmAdminUserName": {
       "type": "string",
+      "defaultValue": "JPCortesP",
       "metadata": {
         "description": "VM admin user name"
       }
